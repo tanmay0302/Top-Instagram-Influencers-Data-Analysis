@@ -87,7 +87,4 @@ The entire analysis is in the Jupyter Notebook:
 
 ---
 
-## 💡 Author
-
-**[Tanmay Shishodia]**  
 
