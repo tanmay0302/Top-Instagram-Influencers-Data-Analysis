@@ -89,10 +89,5 @@ The entire analysis is in the Jupyter Notebook:
 
 ## 💡 Author
 
-**[]**  
-B.Tech AI & DS | Data Analyst Enthusiast  
-🔗 [LinkedIn](www.linkedin.com/in/tanmay-shishodia) 
-
----
-
+**[Tanmay Shishodia]**  
 
